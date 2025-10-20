@@ -109,4 +109,4 @@ if __name__ == "__main__":
         print("Parsed text (first 800 chars):\n")
         print(parse_resume(sample)[:800])
     else:
-        print("No sample resume found. Drop a sample at tests/sample_resume.pdf to try the parser.")
+        print("No sample resume found. Drop a sample at tests/sample_resume.pdf to try the parser. not happening")
