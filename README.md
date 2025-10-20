@@ -7,7 +7,7 @@ KAREN screens heaps of resumes, understands the job description, and picks out t
 
 ---
 
-## 🧠 What KAREN Does  
+# 🧠 What KAREN Does  
 
 KAREN automates resume screening using **embeddings**, **vector search**, and **LLMs** — so you can focus on hiring, not sorting.  
 
@@ -38,27 +38,46 @@ Built with **Streamlit** for a clean and interactive interface.
 
 ---
 
-## ⚙️ Installation & Setup  
+# ⚙️ Installation & Setup  
 git clone https://github.com/yourusername/karen.git
 cd karen
 
-## Install dependencies:
+---
+
+# Install dependencies:
 pip install -r requirements.txt
 
-## Create a .env file and add your Groq API key:
+---
+
+# Create a .env file and add your Groq API key:
 GROQ_API_KEY=your_key_here
 
-## Run the Streamlit app:
+---
+
+# Run the Streamlit app:
 streamlit run app.py
 
-## Why Karen?
+---
+
+# Why Karen 🤓?
 
 Because every HR team needs a Karen —
 but this one doesn’t judge your outfit or ask to “speak to the manager.”
 
 KAREN flips the popular Gen Z stereotype:
-
 “Karen” — once a symbol of entitlement — is now Kind, Analytical, Reliable, Efficient, and Non-biased. 💅
 
 KAREN doesn’t complain. She computes.
+
+---
+
+# Example Output:
+Top 3 candidates for “AI Engineer”:
+1. Alex Johnson – Score: 0.94
+2. Priya Menon – Score: 0.89
+3. Daniel Kim – Score: 0.87
+
+
+
+
 
